@@ -18,7 +18,7 @@ crypto-from-scratch/
 
 ---
 
-## 🗂Algorithms
+## Algorithms
 
 ### Symmetric Encryption
 | File | Algorithm | Description |
@@ -43,7 +43,7 @@ crypto-from-scratch/
 
 ---
 
-## ⚙Installation
+## Installation
 ```bash
 git clone https://github.com/KRYSTALM7/crypto-from-scratch.git
 cd crypto-from-scratch
